@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf35d8d0fcdd42b19f56881217100edc, type: 3}
+  m_Name: MelonDataContainer
+  m_EditorClassIdentifier: 
+  dataPairs:
+  - Level: 1
+    Data:
+      Size: 0.3
+      GravityScale: 1.6
+      Mass: 10
+      Skin: {fileID: 21300000, guid: 6d5ad148af2b44ceb8e6334e78dc557e, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: 694b994cfa1b1416a8524a1d6533f0ac, type: 2}
+  - Level: 2
+    Data:
+      Size: 0.5
+      GravityScale: 1.8
+      Mass: 12
+      Skin: {fileID: 21300000, guid: ee5a1f7437a7549bcaba31020744b8bc, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: e897cf1a875ab4962b7b1288fcccfc2b, type: 2}
+  - Level: 3
+    Data:
+      Size: 0.7
+      GravityScale: 2
+      Mass: 14
+      Skin: {fileID: 21300000, guid: e6cd75ad8c7cf43bf91537977712a1eb, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: 77d220230bc014120a371faedf6fe69e, type: 2}
+  - Level: 4
+    Data:
+      Size: 0.9
+      GravityScale: 2.2
+      Mass: 16
+      Skin: {fileID: 21300000, guid: 23b5f5be532ae49c686514116a84ae8d, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: bc58acc4239474538a800eb6d6d5a19b, type: 2}
+  - Level: 5
+    Data:
+      Size: 1.2
+      GravityScale: 2.4
+      Mass: 18
+      Skin: {fileID: 21300000, guid: c0ff9758a7ccf471bb63a5dcb4259b49, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: c176188cb7d4548c3a9a935abf8510cc, type: 2}
+  - Level: 6
+    Data:
+      Size: 1.5
+      GravityScale: 2.6
+      Mass: 20
+      Skin: {fileID: 21300000, guid: 2339205b4e7294a90b36289f6e830793, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: 3ba75dfbfd6694460b96a4ec77d06bbe, type: 2}
+  - Level: 7
+    Data:
+      Size: 1.9
+      GravityScale: 2.8
+      Mass: 22
+      Skin: {fileID: 21300000, guid: 32c82459cdfb64db4ad179ea2776cad8, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: 9d1f9a43d291b4ce993ef3fbb1d728d4, type: 2}
+  - Level: 8
+    Data:
+      Size: 2.2
+      GravityScale: 3
+      Mass: 24
+      Skin: {fileID: 21300000, guid: d7e055c13163f4340890d26e74fb90ba, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: ed16c2c68a73642cda1fc971ba6fa699, type: 2}
+  - Level: 9
+    Data:
+      Size: 2.5
+      GravityScale: 3.2
+      Mass: 26
+      Skin: {fileID: 21300000, guid: 8ded22d30afa04d19899e777a522cd66, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: c0025ccab020944eb991c1d8fb6326b8, type: 2}
+  - Level: 10
+    Data:
+      Size: 2.8
+      GravityScale: 3.4
+      Mass: 28
+      Skin: {fileID: 21300000, guid: cebdf762ced38495ea9604fb18e1613b, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: 19a50472f98094c39b0327297adedc90, type: 2}
+  - Level: 11
+    Data:
+      Size: 3.2
+      GravityScale: 3.6
+      Mass: 30
+      Skin: {fileID: 21300000, guid: 70bd55bfbad3b40159ad12a716e080c0, type: 3}
+      PhysicsMaterial: {fileID: 6200000, guid: bf9fa3fe0601d4fa2a4296d0148ec441, type: 2}
