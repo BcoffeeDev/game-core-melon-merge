@@ -7,6 +7,7 @@ namespace BcoffeeDev.MelonMerge
     public class MelonData
     {
         public float Size;
+        public float Damping;
         public float GravityScale;
         public float Mass;
         public Sprite Skin;

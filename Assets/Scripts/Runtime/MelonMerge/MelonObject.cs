@@ -73,6 +73,7 @@ namespace BcoffeeDev.MelonMerge
         {
             if (!MelonFactory.Instance.DataContainer.TryGetData(Level, out var data))
                 return;
+            body.linearDamping = data.Damping;
             body.gravityScale = data.GravityScale;
             body.mass = data.Mass;
             body.sharedMaterial = data.PhysicsMaterial;

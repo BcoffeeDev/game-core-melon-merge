@@ -16,6 +16,7 @@ MonoBehaviour:
   - Level: 1
     Data:
       Size: 0.3
+      Damping: 2.8
       GravityScale: 1.6
       Mass: 10
       Skin: {fileID: 21300000, guid: 6d5ad148af2b44ceb8e6334e78dc557e, type: 3}
@@ -23,6 +24,7 @@ MonoBehaviour:
   - Level: 2
     Data:
       Size: 0.5
+      Damping: 2.8
       GravityScale: 1.8
       Mass: 12
       Skin: {fileID: 21300000, guid: ee5a1f7437a7549bcaba31020744b8bc, type: 3}
@@ -30,6 +32,7 @@ MonoBehaviour:
   - Level: 3
     Data:
       Size: 0.7
+      Damping: 2.8
       GravityScale: 2
       Mass: 14
       Skin: {fileID: 21300000, guid: e6cd75ad8c7cf43bf91537977712a1eb, type: 3}
@@ -37,6 +40,7 @@ MonoBehaviour:
   - Level: 4
     Data:
       Size: 0.9
+      Damping: 2.8
       GravityScale: 2.2
       Mass: 16
       Skin: {fileID: 21300000, guid: 23b5f5be532ae49c686514116a84ae8d, type: 3}
@@ -44,6 +48,7 @@ MonoBehaviour:
   - Level: 5
     Data:
       Size: 1.2
+      Damping: 2.8
       GravityScale: 2.4
       Mass: 18
       Skin: {fileID: 21300000, guid: c0ff9758a7ccf471bb63a5dcb4259b49, type: 3}
@@ -51,6 +56,7 @@ MonoBehaviour:
   - Level: 6
     Data:
       Size: 1.5
+      Damping: 2.8
       GravityScale: 2.6
       Mass: 20
       Skin: {fileID: 21300000, guid: 2339205b4e7294a90b36289f6e830793, type: 3}
@@ -58,6 +64,7 @@ MonoBehaviour:
   - Level: 7
     Data:
       Size: 1.9
+      Damping: 2.8
       GravityScale: 2.8
       Mass: 22
       Skin: {fileID: 21300000, guid: 32c82459cdfb64db4ad179ea2776cad8, type: 3}
@@ -65,6 +72,7 @@ MonoBehaviour:
   - Level: 8
     Data:
       Size: 2.2
+      Damping: 2.8
       GravityScale: 3
       Mass: 24
       Skin: {fileID: 21300000, guid: d7e055c13163f4340890d26e74fb90ba, type: 3}
@@ -72,6 +80,7 @@ MonoBehaviour:
   - Level: 9
     Data:
       Size: 2.5
+      Damping: 2.8
       GravityScale: 3.2
       Mass: 26
       Skin: {fileID: 21300000, guid: 8ded22d30afa04d19899e777a522cd66, type: 3}
@@ -79,6 +88,7 @@ MonoBehaviour:
   - Level: 10
     Data:
       Size: 2.8
+      Damping: 2.8
       GravityScale: 3.4
       Mass: 28
       Skin: {fileID: 21300000, guid: cebdf762ced38495ea9604fb18e1613b, type: 3}
@@ -86,6 +96,7 @@ MonoBehaviour:
   - Level: 11
     Data:
       Size: 3.2
+      Damping: 2.8
       GravityScale: 3.6
       Mass: 30
       Skin: {fileID: 21300000, guid: 70bd55bfbad3b40159ad12a716e080c0, type: 3}
