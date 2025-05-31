@@ -1,5 +1,7 @@
 # 🍉 game-core-melon-merge
 
+![screenshot](images/screenshot.png)
+
 A Unity-based core system that replicates fruit merging mechanics inspired by popular falling and merging puzzle games.
 This project focuses on recreating the core logic behind object merging using Rigidbody2D and built-in object pooling, all wrapped in a minimal and extensible structure.
 
